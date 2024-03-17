@@ -1,4 +1,5 @@
-### My nickname is elGros. I am a retired meteorologist settled in Barcelona, Spain. Just joined GitHub for personal use. 
+### My nickname is elGros. I am a retired meteorologist settled in Barcelona, Spain. 
+### This GitHub account is for personal use. 
 
 <!--
 **el-gros/el-gros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
